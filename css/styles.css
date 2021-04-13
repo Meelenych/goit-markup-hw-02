@@ -66,6 +66,10 @@ body {
   color: var(--title-cl);
 }
 
+.contact {
+  color: inherit;
+}
+
 .logo {
   font-family: Raleway;
   font-style: normal;
@@ -93,6 +97,7 @@ body {
   font-size: 44px;
   line-height: 1.4;
   text-align: center;
+  letter-spacing: 0.06em;
 }
 
 /*Кнопку в постоянный ховер*/
@@ -183,3 +188,5 @@ body {
 .projects {
   margin: 215px;
 }
+
+color: #ffffff99;
